@@ -10,6 +10,8 @@ This translated code is binary code. It is nothing but 1s and 0s. Interpreters t
 
 To compare, compilers convert all the source code at once to binary code, then run the binary code.
 
+The advantage of interpreters over compilers is that you can get instant result and feed back as you write your code. However, the compiled program will run much faster and more efficient.
+
 #### More Information:
 [Matt Adesanya's "A Gentler Introduction to Programming"](https://medium.freecodecamp.org/a-gentler-introduction-to-programming-707453a79ee8) compares compilers and interpreters, and introduces other basic programming concepts.
 
